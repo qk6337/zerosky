@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
-MAINTAINER zhaichong <344616313@qq.com>
-ENV REFRESHED_AT 2015-7-28
+MAINTAINER zerosky_qk <313819934@qq.com>
+ENV REFRESHED_AT 2015-08-11
 
 RUN apt-get -yqq update
 RUN apt-get -yqq install tomcat7 default-jdk
