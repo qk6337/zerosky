@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM centos
 MAINTAINER zerosky_qk <313819934@qq.com>
 ENV REFRESHED_AT 2015-08-11
 
